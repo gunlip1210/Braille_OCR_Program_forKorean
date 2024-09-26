@@ -1,1 +1,1 @@
-# Braille_OCR_Program_inKorean
+# Braille OCR Program (HelloWorld) for Korean
